@@ -6,7 +6,7 @@
 
 https://creative-cloud.vercel.app/
 
-<img src="image/porject.png">
+<img src="image/project.png.png">
 
 ## Connect with me
 
